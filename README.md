@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AlexShafir
+- 👀 I’m interested in Software Engineering, mainly Android
+- 🌱 I’m currently learning a bit of Data Science
+- 💞️ I’m looking to collaborate on Java, Kotlin projects
+- 📫 How to reach me: https://www.linkedin.com/in/alexander-shafir/
